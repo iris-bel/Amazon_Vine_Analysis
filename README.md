@@ -23,6 +23,10 @@ This means that:
 
 *We chose to cateogorize reviews as 'helpful' with over 50% of the votes on the review determined the review was helpful
 
+A snippet of the code used to determine the values above can be seen here:
+
+![code_image.png](code_image.png)
+
 ## Summary
 
 The percentages calculated above suggest that there is not positivity bias among the reviews in the Vine program, as the vine reviews actually had a lower percentage of 5 star reviews than the regular reviews.
